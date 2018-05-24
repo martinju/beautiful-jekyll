@@ -11,4 +11,5 @@ permalink: /publications/index.html
 </center>
 --->
 
-<script src="https://bibbase.org/service/mendeley/a6c9384a-a393-34cc-b84e-173cc7be431c?jsonp=1"></script>
+<script src="https://bibbase.org/service/mendeley/a6c9384a-a393-34cc-b84e-173cc7be431c?jsonp=1&token=b81762ce5de45eedf1cc8389d84a0a57
+"></script>
