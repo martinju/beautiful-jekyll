@@ -7,6 +7,11 @@
 url: "http://username.github.io"
 baseurl: ""
 
+# My test
+url: "http://nr.no/~jullum"
+baseurl: "~jullum"
+
+
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
 #baseurl: "/projectname"
