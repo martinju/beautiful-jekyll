@@ -9,7 +9,7 @@ baseurl: ""
 
 # My test
 url: "http://nr.no/~jullum"
-baseurl: "~jullum"
+baseurl: "/~jullum"
 
 
 # If you are building a GitHub project page then use these settings:
@@ -19,7 +19,7 @@ baseurl: "~jullum"
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Testing 123
+title: Testing 1234
 
 # Short description of your site
 description: A virtual proof that name is awesome!
