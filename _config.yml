@@ -8,9 +8,12 @@ url: "http://username.github.io"
 baseurl: ""
 
 # My test
+{% if jekyll.environment == "production" %}
+   {% 
 url: "http://nr.no/~jullum"
 baseurl: "/~jullum"
-
+ %}
+{% endif %}
 
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
@@ -19,7 +22,7 @@ baseurl: "/~jullum"
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Testing 1234
+title: Testing site 1
 
 # Short description of your site
 description: A virtual proof that name is awesome!
