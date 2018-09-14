@@ -4,14 +4,18 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://username.github.io"
-baseurl: ""
+url: "http://username.github.io/website"
+baseurl: "website"
 
-# My test
-{% if jekyll.environment == "production" %}
-url: "http://nr.no/~jullum"
-baseurl: "/~jullum"
-{% endif %}
+# My test: Works
+#url: "http://nr.no/~jullum"
+#baseurl: "/~jullum"
+
+# My test: Does not work, try something similar
+#{% if jekyll.environment == "production" %}
+#url: "http://nr.no/~jullum"
+#baseurl: "/~jullum"
+#{% endif %}
 
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
