@@ -9,10 +9,8 @@ baseurl: ""
 
 # My test
 {% if jekyll.environment == "production" %}
-   {% 
 url: "http://nr.no/~jullum"
 baseurl: "/~jullum"
- %}
 {% endif %}
 
 # If you are building a GitHub project page then use these settings:
